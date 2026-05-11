@@ -2,4 +2,7 @@ print("Hello world")
 sume=40+1
 print("67")
 print(sume)
+a = 5
+b = a + 4
+print(b)
 
