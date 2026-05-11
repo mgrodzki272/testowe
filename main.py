@@ -1,4 +1,4 @@
 print("Hello world")
 sume=40+1
-print("6769")
+print("67")
 
